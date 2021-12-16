@@ -1,4 +1,14 @@
 ---
+Nullcon Berlin 2022
+  year: 2022
+  link: https://nullcon.net/berlin-2022/cfp/
+  deadline: "2022-01-15 23:59"
+  description: 4 categories: (1) Technical Talk (2) CTF/Challenges (3) Workshop/villages (4) Open-source Tool
+  date: 5-9 April 2022
+  place: Berlin, Germany
+  tags: [SEC, PRIV]
+
+
 # Security and Privacy
 - name: S&P (Oakland)
   year: 2022
